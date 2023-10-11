@@ -11,13 +11,13 @@ let secondaDomanda = "Cos'è una variabile?";
 console.log(secondaDomanda);
 
 // Risposta ed esmpio di variabile.
-let secondaRisposta = "- Una variabile può essere vista come un contenitore con un nome (unico), utilizzato per contenere i risultati parziali dell'algoritmo. "
-console.log(secondaRisposta)
+let secondaRisposta = "- Una variabile può essere vista come un contenitore con un nome (unico), utilizzato per contenere i risultati parziali dell'algoritmo. ";
+console.log(secondaRisposta);
 
 // Domanda undefined e null.
-let terzaDomanda = "Undefined e Null sono la stessa cosa?"
-console.log(terzaDomanda)
+let terzaDomanda = "Undefined e Null sono la stessa cosa?";
+console.log(terzaDomanda);
 
 // Risposta undefined e null.
-let terzaRisposta = "- Undefined è un errore, indica che una variabile non è stata dichiarata. Null invece è utilizzato per indicare che una variabile non fa riferimento a nessun oggetto o valore specifico."
-console.log(terzaRisposta)
+let terzaRisposta = "- Undefined è un errore, indica che una variabile non è stata dichiarata. Null invece è utilizzato per indicare che una variabile non fa riferimento a nessun oggetto o valore specifico.";
+console.log(terzaRisposta);
